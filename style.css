@@ -1,0 +1,65 @@
+.prem{
+  padding-top: 30px;
+  text-align: center;
+  height:300px;
+  background: url(img1.JPG) no-repeat center center;
+  background-size: cover;
+}
+.der{
+  margin-top:5px;
+}
+
+.pf{
+  padding:50px auto 50px auto;
+}
+
+.im {
+  padding: 3px;
+}
+
+h1{
+  text-align: center;
+  font-size: 6em;
+  color: rgba(5,5,5,.8);
+  text-shadow: 4px 3px 5px rgba(50,50,50,.8);
+}
+
+h2{
+  display: inline-block;
+  background-color: rgba(200,200,200,.3);
+  padding:10px;
+  margin:auto;
+  border-radius: 100px;
+  text-align: center;
+  font-size: 4em;
+  color: rgba(20,20,20,.9);
+  text-shadow: 2px 2px 2px rgba(50,50,50,.4);
+}
+
+.hd{
+ font-size: 4em;
+
+}
+
+.sep{
+  width: 70%;
+  margin-top:10px;
+  margin-bottom:8px;
+  margin-left:15%;
+  border-bottom: dotted 2px rgba(50,50,50,.3);
+}
+
+.sep2{
+  width: 70%;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left:15%;
+  border-bottom: dotted 2px rgba(50,50,50,.3);
+  border-color: ;
+}
+
+.pht{
+    font-weight: bold;
+}
+
+
